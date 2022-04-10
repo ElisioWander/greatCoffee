@@ -1,0 +1,21 @@
+.header {
+    width: 100%;
+    height: 5rem;
+
+    border-bottom: solid 1px var(--gray-900);
+}
+
+.headerContent {
+    width: 90%;
+    height: 5rem;
+
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    svg {
+        cursor: pointer;
+    }
+}

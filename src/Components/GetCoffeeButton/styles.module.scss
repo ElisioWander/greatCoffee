@@ -1,0 +1,22 @@
+.coffeeButton {
+    margin: 3.5rem 0;
+
+    padding: 0.62rem 1.5rem;
+
+    border: solid 1px var(--purple);
+    border-radius: 6px;
+
+    font-size: 0.68rem;
+    font-weight: 700;
+
+    text-transform: uppercase;
+
+    color: var(--white);
+    background-color: transparent;
+
+    transition: filter 0.2s;
+
+    &:hover {
+        filter: brightness(0.8);
+    }
+}
