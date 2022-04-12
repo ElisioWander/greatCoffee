@@ -3,22 +3,14 @@
     height: 100vh;
 
     overflow: hidden;
+
     position: relative;
 }
 
 .blurMobile {
     position: absolute;
-    top: 150px;
-}
+    bottom: 0;
 
-//Desktop
-@media(min-width: 426px) {
-    .blurMobile {
-        display: none;
-    }
-
-    .blurDesktopOne {
-        position: absolute;
-        bottom: -150px;
-    }
+    width: 100%;
+    height: 380px;
 }

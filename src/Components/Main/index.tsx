@@ -15,7 +15,11 @@ export function Main() {
         <span>&lsaquo;Great Code&rsaquo;</span>
       </h2>
 
-      <img src="/assets/rocket-coffee.png" alt="Coffe" />
+      <img 
+        className={styles.greatCoffee}
+        src="/assets/rocket-coffee.png"
+        alt="RocketCoffee background"
+      />
     </main>
   )
 }
