@@ -14,3 +14,27 @@
     width: 100%;
     height: 380px;
 }
+
+@media(min-width: 1024px) {
+    .blurMobile {
+        display: none;
+    }
+
+    .container {
+        .blurDesktopOne,
+        .blurDesktopTwo {
+            position: absolute;
+        }
+
+        .blurDesktopOne {
+            width: 50%;
+            bottom: 0;
+        }
+
+        .blurDesktopTwo {
+            width: 50%;
+            top: -80px;
+            right: 0;
+        }
+    }
+}
