@@ -15,6 +15,11 @@ O layout utilizado para fazer a aplicação foi providenciado pela Rocketseat, e
 
 ---
 
+## 💻 Acessar a aplicação
+- [GreatCoffee](https://great-coffee-dusky.vercel.app/)
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 Foram utilizadas as seguintes tecnologias para desenvolver a aplicação **GreatCoffee** :
 
