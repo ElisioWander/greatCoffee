@@ -3,9 +3,9 @@
 </h1>
 
 <h1 align="center">
+    <img src="./public/assets/desktop-version.png" width="400px"> 
     <img src="./public/assets/mobile-version.png" width="300px">
     <img src="./public/assets/menu-burger.png" width="300px"> 
-    <img src="./public/assets/desktop-version.png" width="400px"> 
 </h1>
 
 ## 🏷️ Sobre 
