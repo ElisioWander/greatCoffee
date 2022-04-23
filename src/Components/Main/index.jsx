@@ -12,7 +12,7 @@ export function Main() {
 
       <h2>
         Great Coffee
-        <span>&lsaquo;Great Code&rsaquo;</span>
+        <span>&lsaquo;Great Code/&rsaquo;</span>
       </h2>
 
       <img 
