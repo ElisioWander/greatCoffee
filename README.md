@@ -3,9 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="./public/assets/mobile-version.png" width="200px">
-    <img src="./public/assets/menu-burger.png" width="200px"> 
-    <img src="./public/assets/desktop-version.png" width="400px"> 
+    <img src="./public/assets/greatCoffee.gif" width="400px"> 
 </h1>
 
 ## 🏷️ Sobre 
