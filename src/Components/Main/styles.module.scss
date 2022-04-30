@@ -8,10 +8,14 @@
 
     h1 {
         margin-top: 3rem;
-        padding: 0 4rem;
+        padding: 0 3rem;
 
         font-size: 1.3rem;
         line-height: 2.3rem;
+    }
+
+    button {
+        margin: 4rem 0;
     }
 
     h2 {
@@ -46,10 +50,17 @@
         width: 480px;
 
         h1 {
-            display: none;
+            font-size: 1.3rem;
+
+            margin-top: 2rem;
+            padding: 0 4rem;
         }
 
-        h2 {
+        button {
+            margin: 3rem 0;
+        }
+
+        h2, span {
             font-size: 3rem;
         }
     }
@@ -60,6 +71,14 @@
         width: 720px;
 
         margin-top: 2rem;
+
+        h1 {
+            display: none;
+        }
+
+        h2, span {
+            font-size: 4rem;
+        }
 
         button {
             display: none;
