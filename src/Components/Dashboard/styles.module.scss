@@ -21,6 +21,8 @@
     }
 
     .container {
+        position: relative;
+
         .blurDesktopOne,
         .blurDesktopTwo {
             position: absolute;
@@ -28,7 +30,7 @@
 
         .blurDesktopOne {
             width: 50%;
-            bottom: 0;
+            bottom: 0;   
         }
 
         .blurDesktopTwo {
